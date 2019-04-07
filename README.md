@@ -1,16 +1,13 @@
-# balloon_pop
+# Balloon POP
 
-A new Flutter application.
+Balloon POP is a fast-paced 2D arcade game that challenges your reflexes! Tap to pop the balloons as fast as possible and survive as long as possible! You lose when the balloons expands too much and touch the border of the screen!
 
-## Getting Started
+Home Screen                |  Play Screen              |     Losing screen
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="assets/screenshots/photo_2019-04-07_22-07-39.jpg" width="40%">.  |  <img src="assets/screenshots/photo_2019-04-07_22-07-45.jpg" width="40%">. | <img src="assets/screenshots/photo_2019-04-07_22-07-36.jpg" width="40%">.
 
-This project is a starting point for a Flutter application.
+## Credits
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [luanpotter](https://github.com/luanpotter) for his guidance and patience in answering my questions.
+- [ Alekhin ](https://github.com/japalekhin) for his tutorials on the [Flame] game engine.
+- StackOverflow and online tutorials on Dart and Flutter
